@@ -1,4 +1,14 @@
-# COCO-annotations_convert
+# COCO-annotations_convert from @ujsyehao
+This repository is a copy of @ujsyehao script but with all the corrections mentionned in his issues.
+
+## Corrections
+- Script error : "Filter object is not subscriptable"
+  - [Pull request with solution](https://github.com/ujsyehao/COCO-annotations-darknet-format/pull/3)
+
+- Issue : https://github.com/ujsyehao/COCO-annotations-darknet-format/issues/1
+  - added solution by @florazxf [here](https://github.com/ujsyehao/COCO-annotations-darknet-format/issues/1#issuecomment-643747299)
+
+## Original
 COCO just provide json file annotations. If you want to train COCO on darknet,thie program can help you turn json file into txt 
 file that darknet need.
 
