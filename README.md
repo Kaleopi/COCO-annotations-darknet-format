@@ -5,7 +5,7 @@ This repository is a copy of @ujsyehao script but with all the corrections menti
 - Script error : "Filter object is not subscriptable"
   - [Pull request with solution](https://github.com/ujsyehao/COCO-annotations-darknet-format/pull/3)
 
-- Issue : https://github.com/ujsyehao/COCO-annotations-darknet-format/issues/1
+- Solution to [Issue#1](https://github.com/ujsyehao/COCO-annotations-darknet-format/issues/1)
   - added solution by [**@florazxf**](https://github.com/florazxf) [here](https://github.com/ujsyehao/COCO-annotations-darknet-format/issues/1#issuecomment-643747299)
 
 ## Original
